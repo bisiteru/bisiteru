@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bisi! <br/><a href="https://github.com/bisiteru">Identity and Access Management Administrator</a>, <a href="https://www.linkedin.com/in/bisiteru/">Cybersecurity Professional</a>.
+<h1>Hi, I'm Bisi Teru! <br/><a href="https://github.com/bisiteru">Identity and Access Management Administrator</a>, <a href="https://www.linkedin.com/in/bisiteru/">Cybersecurity Professional</a>.
 
 <h2>👨‍💻 IAM and Cybersecurity Projects:</h2>
 
